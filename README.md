@@ -12,7 +12,10 @@
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1M4XW276R5MNrHH2aPqiy4GeC3V9h64ny/view)
+
+
+https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/385755cb-9cab-4f0a-a103-4bb3bdfb9d64
+
 
 <h2>Question Answered</h2>
 
