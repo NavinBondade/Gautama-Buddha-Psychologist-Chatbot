@@ -13,8 +13,7 @@
 <h2>Run The ChatBot</h2>
 
 <h2>Demo Video</h2>
-https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/385755cb-9cab-4f0a-a103-4bb3bdfb9d64
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/43030152/283437302-385755cb-9cab-4f0a-a103-4bb3bdfb9d64.mp4
 
 <h2>Question Answered</h2>
 
