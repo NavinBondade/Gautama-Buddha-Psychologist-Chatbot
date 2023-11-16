@@ -11,7 +11,10 @@
 </ul>
 <h2>Methodology</h2>
 <h2>Demo Video</h2>
-https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/98781ae4-b10a-479c-8cb4-0243d4146670
+
+https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/afd9c216-3f1d-4c6b-ac1c-9386c8475288
+
+
 
 
 
