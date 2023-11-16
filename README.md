@@ -12,8 +12,7 @@
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
-https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/blob/3ae8f09dc82b2a658722fd0cfb5fc75770cc894b/Gautama%20Buddha%20Psychologist%20Chatbot/result/Demo%20Video.mp4
-
+<video src='https://drive.google.com/file/d/1M4XW276R5MNrHH2aPqiy4GeC3V9h64ny/view?usp=sharing' width=180/>
 <h2>Question Answered</h2>
 
 
