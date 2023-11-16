@@ -12,10 +12,16 @@
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
-
+<figure class="video_container">
+  <iframe src="vid/test.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 <h2>Question Answered</h2>
+
+Uploading Demo Video.mp4…
+
+
 <h2>Question Answered</h2>
 <h2>Memory</h2>
 <h2>Conclusion</h2>
