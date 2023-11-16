@@ -10,6 +10,7 @@
   <li>ChainLit</li>
 </ul>
 <h2>Methodology</h2>
+<h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
 <h2>Question Answered</h2>
 <h2>Question Answered</h2>
