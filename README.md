@@ -5,7 +5,7 @@
 </a>
 </p>
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-tnjuq&psig=AOvVaw1bCawcMF1KXZv1MfdOhwvv&ust=1700216871288000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi68canyIIDFQAAAAAdAAAAABAE">
+<img src="https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/blob/main/Gautama%20Buddha%20Psychologist%20Chatbot/result/desktop-wallpaper-buddha-anime-buddhist-art.jpg">
 </p>
 <p>In today's fast-paced world, mental health issues have become very prevalent. People are constantly suffering from illnesses like depression and anxiety disorders. And because of their busy schedule or ignorance of the symptoms of such disease, people often avoid consulting a psychologist. In this project, I have built an AI system that utilizes the teachings of Gautaum Buddha and the knowledge of modern psychology to answer people's queries and provide concrete solutions for permanently fixing mental health issues. </p>
 <h2>Libraries Used</h2>
