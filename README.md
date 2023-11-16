@@ -13,7 +13,7 @@
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
 <video width="320" height="240" controls>
-  <source src="https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/blob/main/Gautama%20Buddha%20Psychologist%20Chatbot/result/Demo%20Video.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=7AVjk2k8Mbs" type="video/mp4">
 </video>
 <h2>Question Answered</h2>
 <h2>Question Answered</h2>
