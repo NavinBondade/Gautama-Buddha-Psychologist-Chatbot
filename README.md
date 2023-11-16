@@ -18,7 +18,7 @@ https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030
 </p>
 <h2>Conversation</h2>
 <p align="center">
-<img src="Gautama Buddha Psychologist Chatbot/result/result.png" width="900" height="950">
+<img src="Gautama Buddha Psychologist Chatbot/result/result.png" width="900" height="920">
 </p>
 <h2>Memory</h2>
 <h2>Conclusion</h2>
