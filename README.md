@@ -12,8 +12,7 @@
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
-<video src='https://drive.google.com/file/d/1M4XW276R5MNrHH2aPqiy4GeC3V9h64ny/view' width=180/>
-<iframe src="https://drive.google.com/file/d/1M4XW276R5MNrHH2aPqiy4GeC3V9h64ny/view" ></iframe>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://drive.google.com/file/d/1M4XW276R5MNrHH2aPqiy4GeC3V9h64ny/view)
 
 <h2>Question Answered</h2>
 
