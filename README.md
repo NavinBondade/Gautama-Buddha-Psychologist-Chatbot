@@ -12,9 +12,9 @@
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=7AVjk2k8Mbs" type="video/mp4">
-</video>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 <h2>Question Answered</h2>
 <h2>Question Answered</h2>
 <h2>Memory</h2>
