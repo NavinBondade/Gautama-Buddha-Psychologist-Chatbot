@@ -11,8 +11,7 @@
 </ul>
 <h2>Methodology</h2>
 <h2>Run The ChatBot</h2>
-```pip install -r /path/to/requirements.txt
-```
+
 <h2>Demo Video</h2>
 https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/385755cb-9cab-4f0a-a103-4bb3bdfb9d64
 
