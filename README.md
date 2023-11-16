@@ -14,3 +14,12 @@
   <li>Hugging Face</li>
   <li>ChainLit</li>
 </ul>
+<h2>Methodology</h2>
+<h2>Demo Video</h2>
+<h2>Question Answered</h2>
+<h2>Question Answered</h2>
+<h2>Memory</h2>
+<h2>Conclusion</h2>
+
+
+
