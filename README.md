@@ -10,10 +10,7 @@
 <p>In today's fast-paced world, mental health issues have become very prevalent. People are constantly suffering from illnesses like depression and anxiety disorders. And because of their busy schedule or ignorance of the symptoms of such disease, people often avoid consulting a psychologist. In this project, I have built an AI system that utilizes the teachings of Gautaum Buddha and the knowledge of modern psychology to answer people's queries and provide concrete solutions for permanently fixing mental health issues. </p>
 <h2>Libraries Used</h2>
 <ul>
-  <li>Tensorflow</li>
-  <li>Numpy</li>
-  <li>Pandas </li>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
-  <li>Sklearn</li>
+  <li>LangChain</li>
+  <li>Hugging Face</li>
+  <li>ChainLit</li>
 </ul>
