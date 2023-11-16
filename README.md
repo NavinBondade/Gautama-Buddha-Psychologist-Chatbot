@@ -13,7 +13,7 @@
 <h2>Run The ChatBot</h2>
 <h2>Demo Video</h2>
 <figure class="video_container">
-  <iframe src="vid/test.mp4" frameborder="0" allowfullscreen="true"> 
+  <iframe src="vid/https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/blob/main/Gautama%20Buddha%20Psychologist%20Chatbot/result/Demo%20Video.mp4" frameborder="0" allowfullscreen="true"> 
 </iframe>
 </figure>
 
