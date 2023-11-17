@@ -1,4 +1,4 @@
-# Gautama-Buddha-Psychologist-Chatbot
+# Gautama Buddha Psychologist Chatbot
 <p align="center">
 <img src="https://e0.pxfuel.com/wallpapers/344/189/desktop-wallpaper-buddha-anime-buddhist-art.jpg">
 </p>
