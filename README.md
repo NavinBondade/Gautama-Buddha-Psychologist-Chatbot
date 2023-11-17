@@ -24,7 +24,11 @@ The source of the provided context is the book named The Heart of the Buddha's T
 Zephyr is a series of language models that are trained to act as helpful assistants. Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO). We found that removing the in-built alignment of these datasets boosted performance on MT Bench and made the model more helpful. However, this means that model is likely to generate problematic text when prompted to do so and should only be used for educational and research purposes. 
 </p>
 <h2>Demo Video</h2>
-https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/61c0bacc-7db4-4143-a35c-aaadd1a458d1
+
+
+https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/be4a9be7-2922-4747-bddb-bf147aef433f
+
+
 <h2>Question Answered</h2>
 <p>Below, I have asked the model how to keep mind calm? The model has successfully generated a very concise and accurate answer. The model has suggested to the user a five-step approach to calm his mind.</p>
 <p align="center">
