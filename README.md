@@ -26,6 +26,7 @@ Zephyr is a series of language models that are trained to act as helpful assista
 <h2>Demo Video</h2>
 https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030152/afd9c216-3f1d-4c6b-ac1c-9386c8475288
 <h2>Question Answered</h2>
+<p>Below, I have asked the model how to keep mind calm? The model has successfully generated a very concise and accurate answer. The model has suggested to the user a five-step approach to calm his mind.</p>
 <p align="center">
 <img src="Gautama Buddha Psychologist Chatbot/result/r2.png">
 </p>
