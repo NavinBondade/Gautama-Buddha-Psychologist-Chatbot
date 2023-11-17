@@ -36,6 +36,7 @@ https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030
 <img src="Gautama Buddha Psychologist Chatbot/result/result.png">
 </p>
 <h2>Memory</h2>
+<p>The model is also capable of remembering previous conversations and using them to understand the questions asked by the user accurately. In the below example, I asked the model "how to cure depression" and later asked "how long it will take to cure" without mentioning depression in the second question; the model correctly understood the user was talking about depression and generated a precise answer.</p>
 <p align="center">
 <img src="Gautama Buddha Psychologist Chatbot/result/memory.jpg">
 </p>
