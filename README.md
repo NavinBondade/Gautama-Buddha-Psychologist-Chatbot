@@ -41,6 +41,6 @@ https://github.com/NavinBondade/Gautama-Buddha-Psychologist-Chatbot/assets/43030
 <img src="Gautama Buddha Psychologist Chatbot/result/memory.jpg">
 </p>
 <h2>Conclusion</h2>
-
+<p>Here in this project I have developed a Psychologist Chatbot that uses Gautam Buddha teaching to provide solutions for the metal health issues of the user.</p>
 
 
