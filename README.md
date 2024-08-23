@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://e0.pxfuel.com/wallpapers/344/189/desktop-wallpaper-buddha-anime-buddhist-art.jpg">
 </p>
-<p>In today's fast-paced world, mental health issues have become very prevalent. People are constantly suffering from illnesses like depression and anxiety disorders. And because of their busy schedule or ignorance of the symptoms of such disease, people often avoid consulting a psychologist. In this project, I have built an AI system that utilizes the teachings of Gautaum Buddha and the knowledge of modern psychology to answer people's queries and provide concrete solutions for permanently fixing mental health issues. </p>
+<p>In today’s fast-paced world, mental health challenges such as depression and anxiety have become increasingly prevalent. Many individuals, either due to their hectic schedules or a lack of awareness about the symptoms, often delay or avoid seeking professional help. To address this critical issue, I have developed an AI system that integrates the timeless wisdom of Gautam Buddha with the insights of modern psychology. This innovative system is designed to respond to users' mental health queries, offering practical and profound solutions aimed at permanently alleviating mental health concerns. By combining ancient teachings with contemporary psychological understanding, this AI provides a holistic approach to mental well-being, making support accessible to those who might otherwise not seek it.</p>
 <h2>Libraries Used</h2>
 <ul>
   <li>LangChain</li>
