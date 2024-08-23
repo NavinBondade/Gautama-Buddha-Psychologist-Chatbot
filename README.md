@@ -21,7 +21,10 @@ The model operates by receiving a custom-crafted prompt that combines the user's
 <img src="https://huggingface.co/HuggingFaceH4/zephyr-7b-alpha/resolve/main/thumbnail.png">
 </p>
 <p>
-Zephyr is a series of language models that are trained to act as helpful assistants. Zephyr-7B-β is the second model in the series, and is a fine-tuned version of mistralai/Mistral-7B-v0.1 that was trained on on a mix of publicly available, synthetic datasets using Direct Preference Optimization (DPO). 
+The Zephyr series represents a cutting-edge collection of language models meticulously designed to function as highly effective and reliable virtual assistants. Zephyr-7B-β, the second model in this distinguished series, is an enhanced version that builds upon the capabilities of its predecessor. It is fine-tuned from the base model, mistralai/Mistral-7B-v0.1, which itself is a powerful and versatile model. Zephyr-7B-β has undergone rigorous training on a diverse blend of publicly available and synthetic datasets, ensuring it is well-equipped to handle a wide array of tasks with remarkable accuracy and efficiency.
+</p>
+<p>
+What sets Zephyr-7B-β apart is its utilization of Direct Preference Optimization (DPO) during the training process. This technique enables the model to better align with human preferences and deliver outputs that are not only accurate but also contextually appropriate and user-friendly. The fine-tuning process has refined Zephyr-7B-β's ability to understand and respond to complex queries, making it an invaluable tool for applications requiring a high degree of linguistic proficiency and contextual understanding. Whether used in customer support, content creation, or any other domain requiring sophisticated language processing, Zephyr-7B-β stands out as a premier model that exemplifies the advancements in AI-driven assistance.
 </p>
 <h2>Demo Video</h2>
 
