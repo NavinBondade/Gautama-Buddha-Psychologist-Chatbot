@@ -7,7 +7,7 @@
 <ul>
   <li>LangChain</li>
   <li>Hugging Face</li>
-  <li>ChainLit</li>
+  <li>ChainLit</li>  
 </ul>
 <h2>Methodology</h2>
 <p>
